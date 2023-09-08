@@ -1,6 +1,7 @@
-#360 Bubble Gum specializes in its Auto Hatching Features
+# 360 Bubble Gum Hub 
+## specializes in its Auto Hatching Features
 
-There are some features that do help with stat grinding yet the hatching is our strong suit
+## There are some features that do help with stat grinding yet the hatching is our strong suit
 
 Currently Supported Games:
 Bubble Gum Simulator (https://www.roblox.com/games/2512643572/MEGA-LUCK-Bubble-Gum-Simulator)
